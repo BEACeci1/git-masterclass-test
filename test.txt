@@ -1,0 +1,7 @@
+tsghfjebjdl
+SELECT *
+FROM `first_table`
+WHERE id = 12;
+git remote add origin https://github.com/BEACeci1/git-masterclass-test.git
+git branch -M main
+git push -u origin main
